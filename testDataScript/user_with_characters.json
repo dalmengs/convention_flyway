@@ -1,0 +1,4062 @@
+[
+  {
+    "userId": "RD9F9D87HJPM1F2JC807WP2478",
+    "email": "dalmenglee@gmail.com",
+    "characters": [
+      {
+        "name": "Luna-9355",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Kai-5186",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Rowan-9069",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Luna-1599",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Seren-2502",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Seren-9052",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Riven-3460",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Kai-7838",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Lyra-4287",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Nyx-3550",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Iris-9301",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Eris-4997",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Seren-5559",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Rowan-4351",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Atlas-6001",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Zane-3838",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Mira-2013",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Theo-7201",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Kai-4594",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Kai-7260",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Riven-7767",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Orion-1977",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Seren-9193",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Mira-2010",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Aria-6560",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Iris-4832",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Theo-1543",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Elio-2339",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Seren-1042",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Ash-4093",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Nova-1231",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Mira-7435",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Luna-9856",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Echo-9068",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Ash-4675",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Rowan-8151",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Eris-8671",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Nyx-2899",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Luna-7628",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Aria-1466",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Nyx-9990",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Luna-8351",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Elio-4813",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Elio-4780",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Aiden-1563",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Elio-7013",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Eris-6962",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Zane-6301",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Aria-3795",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Elio-6048",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Atlas-6844",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Rowan-3707",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Lyra-8680",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Orion-6323",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Mira-1194",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Nova-1631",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Seren-8807",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Echo-9088",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Riven-8185",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Aiden-9304",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Zane-7722",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Elio-4529",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Aria-2474",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Mira-7920",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Luna-3381",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Aria-9825",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Ash-8933",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Elio-5540",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Nova-8832",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Aiden-4645",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Echo-6706",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Nova-4482",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Iris-4303",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Lyra-1153",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Zane-8955",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Zane-7640",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Nova-5930",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Rowan-9457",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Eris-9673",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Eris-1105",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Atlas-6051",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Lyra-7109",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Nyx-7848",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Iris-6125",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Orion-7661",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Seren-8666",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Echo-4488",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Orion-5599",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Eris-1690",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Lyra-2376",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Ash-4738",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Riven-7205",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Zane-4605",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Kai-6642",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Atlas-9959",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Echo-9928",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Kai-7818",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Aria-9635",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Aria-7728",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Luna-2371",
+        "visibility": "PRIVATE"
+      }
+    ]
+  },
+  {
+    "userId": "JRCQ1V714KXGJJZMMN8KKDHQW0",
+    "email": "taylor.taylor.kw62@example.com",
+    "characters": [
+      {
+        "name": "Elio-8135",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Nova-2996",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Zane-1230",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Riven-3887",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Kai-1286",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Echo-1588",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Aiden-3953",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Nyx-1899",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Eris-4817",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Luna-8643",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Ash-3211",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Elio-1476",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Ash-7466",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Kai-5242",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Atlas-5308",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Orion-9594",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Rowan-7807",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Atlas-6877",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Orion-4413",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Nova-7874",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Iris-5860",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Riven-5981",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Elio-1860",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Rowan-7501",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Kai-2705",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Eris-7471",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Lyra-5708",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Atlas-8440",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Eris-4480",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Luna-1803",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Kai-6477",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Aria-9555",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Theo-8685",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Elio-8177",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Atlas-4494",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Nyx-1919",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Seren-5578",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Zane-6983",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Iris-8975",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Eris-6980",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Orion-6172",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Aiden-9194",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Elio-9934",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Kai-3836",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Aiden-5122",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Echo-3610",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Iris-7792",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Seren-7149",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Aria-1955",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Eris-7562",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Lyra-9162",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Elio-1917",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Seren-1882",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Mira-5480",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Iris-4107",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Aria-2993",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Lyra-1826",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Echo-6643",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Iris-3976",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Lyra-6348",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Aria-2601",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Theo-8895",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Luna-8234",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Mira-1668",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Eris-9224",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Ash-1472",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Ash-1994",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Nova-3773",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Iris-5050",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Echo-5801",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Lyra-6647",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Rowan-6648",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Orion-5832",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Zane-6670",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Echo-5889",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Orion-6660",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Seren-9923",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Echo-7592",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Orion-9799",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Nova-7517",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Nova-9492",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Eris-7891",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Seren-8541",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Mira-3907",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Mira-4856",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Riven-4417",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Lyra-3062",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Orion-6084",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Orion-1569",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Echo-5254",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Nova-3127",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Rowan-8187",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Ash-6870",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Zane-1770",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Luna-1035",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Echo-1892",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Echo-4519",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Nova-9727",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Elio-3950",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Luna-1872",
+        "visibility": "PRIVATE"
+      }
+    ]
+  },
+  {
+    "userId": "GFVTJXB7GR36T061WPY0ESTTKG",
+    "email": "lucas.moore.6vzz@example.com",
+    "characters": [
+      {
+        "name": "Eris-2416",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Riven-5784",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Atlas-2942",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Luna-4428",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Elio-4509",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Kai-2510",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Rowan-5895",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Mira-1247",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Aiden-2578",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Seren-7645",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Zane-3888",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Kai-3033",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Elio-6326",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Lyra-4963",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Atlas-5593",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Atlas-8643",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Kai-3562",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Nova-7006",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Elio-5596",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Luna-4044",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Rowan-6888",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Zane-1196",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Iris-6953",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Kai-1553",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Mira-8198",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Eris-7036",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Echo-4472",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Riven-4350",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Orion-7774",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Aiden-7344",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Orion-6266",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Zane-5968",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Eris-5722",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Nyx-3107",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Mira-2501",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Lyra-9570",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Orion-2164",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Eris-5932",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Iris-5999",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Ash-8703",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Elio-4424",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Elio-4787",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Nova-4707",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Riven-5374",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Eris-8199",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Iris-5358",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Seren-2399",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Luna-2691",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Luna-2045",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Nyx-3996",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Ash-8793",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Riven-6095",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Aria-5728",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Ash-7956",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Lyra-5697",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Luna-7813",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Echo-7300",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Nova-1238",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Orion-9289",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Nyx-9500",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Ash-3360",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Orion-2824",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Riven-5614",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Theo-2254",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Atlas-3635",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Aiden-2639",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Kai-2014",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Lyra-1803",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Rowan-5482",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Aria-4978",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Orion-9169",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Nova-5597",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Zane-9123",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Zane-4036",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Seren-8454",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Seren-8637",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Atlas-2625",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Kai-6396",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Luna-9456",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Echo-1620",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Elio-4602",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Aria-8863",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Zane-2156",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Lyra-2945",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Ash-3590",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Nyx-5576",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Zane-3511",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Lyra-1222",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Iris-9094",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Mira-2796",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Riven-2214",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Echo-4394",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Luna-1386",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Riven-4270",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Ash-6728",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Zane-1293",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Iris-5267",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Seren-8383",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Aiden-4314",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Elio-5679",
+        "visibility": "PRIVATE"
+      }
+    ]
+  },
+  {
+    "userId": "GCSNKSCDYD2TE31CQF5JTGHA00",
+    "email": "john.moore.sq7q@example.com",
+    "characters": [
+      {
+        "name": "Iris-6711",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Kai-7055",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Aiden-2082",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Nova-8751",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Eris-4596",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Orion-3306",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Lyra-7867",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Ash-3258",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Rowan-6459",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Aiden-4106",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Seren-7975",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Luna-7925",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Eris-2632",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Orion-6978",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Rowan-7916",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Eris-8804",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Eris-4405",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Nova-8669",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Mira-7790",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Nova-9774",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Zane-6021",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Zane-8442",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Atlas-4765",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Aria-9478",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Aiden-4862",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Echo-5855",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Orion-6529",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Atlas-5704",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Rowan-6976",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Zane-4176",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Atlas-5998",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Echo-9089",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Iris-3399",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Elio-2431",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Nyx-9770",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Rowan-7798",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Ash-7418",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Kai-2457",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Kai-7098",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Ash-9927",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Nova-4181",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Aiden-2779",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Seren-8412",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Kai-2327",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Elio-2446",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Mira-3763",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Luna-1669",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Rowan-2226",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Orion-8435",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Kai-4851",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Zane-5123",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Echo-6049",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Nova-6044",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Atlas-4919",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Eris-4196",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Theo-1848",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Echo-8424",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Luna-9956",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Aria-8866",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Theo-2864",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Iris-2788",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Luna-7702",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Elio-8003",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Echo-1340",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Riven-2020",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Aria-1218",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Atlas-7641",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Iris-1801",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Nyx-2895",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Eris-7523",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Zane-9464",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Rowan-8962",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Atlas-7122",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Eris-6896",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Iris-7974",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Theo-1567",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Nova-1545",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Echo-7384",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Atlas-7245",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Riven-8941",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Aiden-1786",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Lyra-6892",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Theo-4844",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Mira-3594",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Orion-7498",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Zane-4647",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Orion-9111",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Elio-8483",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Riven-6299",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Kai-6760",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Nyx-4801",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Nyx-8020",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Rowan-7485",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Mira-5278",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Orion-3349",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Kai-2274",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Eris-9674",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Echo-2838",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Nyx-1332",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Luna-8364",
+        "visibility": "PRIVATE"
+      }
+    ]
+  },
+  {
+    "userId": "X4W2H1HM9VW5T3QT6HBKN043ZW",
+    "email": "jamie.miller.9ikb@example.com",
+    "characters": [
+      {
+        "name": "Riven-3351",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Seren-5950",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Lyra-4569",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Riven-6714",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Nyx-2682",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Rowan-8691",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Nyx-4828",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Riven-9829",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Orion-7301",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Nyx-8349",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Riven-2219",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Orion-9999",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Seren-6291",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Orion-2558",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Aiden-5193",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Seren-5964",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Ash-5472",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Lyra-8333",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Orion-2348",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Kai-6605",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Riven-8684",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Atlas-9798",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Ash-1652",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Theo-6986",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Nova-4762",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Theo-1518",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Echo-8211",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Mira-5228",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Echo-3092",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Lyra-8568",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Iris-3950",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Riven-6745",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Nyx-2665",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Seren-8972",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Zane-7601",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Nova-9904",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Theo-8843",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Rowan-6088",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Atlas-2189",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Luna-1525",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Elio-6320",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Ash-3519",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Lyra-6622",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Riven-8401",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Atlas-5863",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Atlas-9058",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Atlas-4611",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Nyx-5785",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Lyra-1149",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Iris-2465",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Luna-1354",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Echo-6402",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Aiden-6045",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Kai-8893",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Nova-9635",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Riven-5752",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Aria-4442",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Rowan-8909",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Zane-7038",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Riven-1656",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Kai-3485",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Zane-9440",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Riven-2349",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Zane-5277",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Atlas-5246",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Echo-2982",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Lyra-5659",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Zane-7328",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Seren-3560",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Luna-8816",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Lyra-3209",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Seren-6189",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Mira-8752",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Seren-6382",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Nyx-8477",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Aiden-8924",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Atlas-6882",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Rowan-1262",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Lyra-7804",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Seren-4024",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Riven-8597",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Echo-9733",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Luna-1820",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Riven-7181",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Atlas-8624",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Seren-3223",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Nyx-2752",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Kai-4933",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Rowan-1988",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Aria-8262",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Orion-4879",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Mira-4084",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Elio-4940",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Echo-9568",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Echo-1522",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Orion-9054",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Theo-8967",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Luna-6376",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Echo-6969",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Zane-1119",
+        "visibility": "PRIVATE"
+      }
+    ]
+  },
+  {
+    "userId": "Y6CH084PJE7KSHNFTYSX7EVW0G",
+    "email": "noah.garcia.9d6f@example.com",
+    "characters": [
+      {
+        "name": "Aiden-3587",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Aria-9848",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Eris-7671",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Luna-9546",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Aiden-1854",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Echo-5188",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Aria-9941",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Lyra-6484",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Echo-8905",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Atlas-3293",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Orion-8793",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Nyx-9772",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Aiden-2225",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Atlas-1440",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Luna-7686",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Echo-1729",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Ash-9759",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Echo-8472",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Ash-5269",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Luna-7896",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Orion-5495",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Atlas-9819",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Atlas-4618",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Eris-7834",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Eris-8214",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Kai-3254",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Lyra-2469",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Mira-7459",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Rowan-2353",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Nova-8810",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Theo-4161",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Atlas-5584",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Riven-6260",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Nova-8991",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Zane-3268",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Atlas-3224",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Iris-2548",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Seren-4181",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Ash-1929",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Seren-9019",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Luna-1003",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Orion-7502",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Lyra-2153",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Iris-3943",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Iris-6233",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Seren-3285",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Nyx-8132",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Atlas-7242",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Zane-6183",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Mira-1410",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Orion-4566",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Zane-1837",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Rowan-5844",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Theo-8297",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Kai-6067",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Aria-6777",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Seren-5327",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Aria-8342",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Nyx-3867",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Lyra-6197",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Orion-2994",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Aiden-3666",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Kai-2692",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Mira-2435",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Mira-3398",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Ash-1704",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Nova-3716",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Elio-7902",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Rowan-3473",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Nyx-8906",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Echo-8348",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Luna-3828",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Nyx-7581",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Aria-7540",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Nova-3031",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Riven-1596",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Kai-5628",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Elio-1111",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Riven-7494",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Rowan-5543",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Orion-1464",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Rowan-8740",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Eris-3825",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Echo-1975",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Nova-8179",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Ash-2854",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Aria-9083",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Orion-8679",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Echo-3016",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Orion-3719",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Ash-3640",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Kai-1239",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Atlas-1402",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Ash-9340",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Orion-8289",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Zane-9974",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Aria-3036",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Riven-3089",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Kai-8674",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Riven-1949",
+        "visibility": "PRIVATE"
+      }
+    ]
+  },
+  {
+    "userId": "DS8WNSJNNEG2GFTYF770GMKFJW",
+    "email": "michael.choi.ez4d@example.com",
+    "characters": [
+      {
+        "name": "Nyx-2917",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Nyx-1701",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Mira-5438",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Luna-2897",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Riven-7538",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Aria-9115",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Echo-3136",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Ash-1139",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Riven-4216",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Riven-9243",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Atlas-3826",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Kai-9047",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Kai-4369",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Nyx-1205",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Atlas-3790",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Riven-2352",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Eris-9492",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Zane-7671",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Elio-5999",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Nyx-4345",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Seren-9918",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Kai-9900",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Theo-3122",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Orion-2610",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Mira-1195",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Lyra-3656",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Aria-8618",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Kai-3310",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Nova-4376",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Ash-4094",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Ash-7057",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Echo-5446",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Aiden-5268",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Echo-2940",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Echo-4941",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Zane-3710",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Riven-8862",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Kai-4344",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Luna-1717",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Kai-6341",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Theo-1323",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Nyx-1409",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Iris-3043",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Lyra-2183",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Ash-8487",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Eris-5632",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Nyx-6506",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Rowan-5861",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Luna-7664",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Zane-5412",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Zane-8109",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Nyx-2665",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Aiden-7683",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Seren-8625",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Rowan-4622",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Atlas-1957",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Ash-8254",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Seren-5199",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Rowan-1249",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Iris-6473",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Elio-3995",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Eris-4153",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Theo-8192",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Aiden-8022",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Iris-8939",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Seren-4964",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Nyx-1607",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Riven-7869",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Seren-4510",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Eris-1000",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Elio-7796",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Theo-7042",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Ash-9835",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Seren-2848",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Lyra-1869",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Theo-4082",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Lyra-7914",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Theo-1949",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Zane-1726",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Kai-8516",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Echo-9917",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Ash-3761",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Lyra-3800",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Riven-7810",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Nova-2337",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Theo-1929",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Aiden-2140",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Riven-2647",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Riven-4093",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Mira-9171",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Rowan-7478",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Echo-4147",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Riven-5918",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Eris-3944",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Eris-7310",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Orion-3030",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Seren-5648",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Rowan-1244",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Kai-3094",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Kai-8455",
+        "visibility": "PRIVATE"
+      }
+    ]
+  },
+  {
+    "userId": "8361ZPEZBVS18350X9BB63G6J0",
+    "email": "leo.lee.c3kt@example.com",
+    "characters": [
+      {
+        "name": "Mira-7322",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Aiden-9083",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Nyx-2065",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Ash-4544",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Riven-2553",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Iris-6759",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Mira-7807",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Rowan-4957",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Nova-6424",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Orion-3942",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Rowan-4948",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Aria-8759",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Mira-9846",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Elio-9428",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Riven-9363",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Kai-9863",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Mira-5769",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Nova-8665",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Elio-2351",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Ash-6695",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Echo-6301",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Nyx-9656",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Riven-7257",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Theo-4848",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Nova-1487",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Elio-5237",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Orion-2672",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Eris-7047",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Rowan-8224",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Nova-9443",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Luna-9921",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Echo-1413",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Kai-1505",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Iris-9976",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Zane-1797",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Echo-7644",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Aria-2705",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Luna-1251",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Luna-5096",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Mira-5179",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Zane-4992",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Lyra-9382",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Elio-8917",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Aiden-9401",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Kai-2085",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Lyra-9132",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Seren-1136",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Nyx-8250",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Echo-4392",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Elio-1149",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Orion-8682",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Luna-7697",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Aiden-9105",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Theo-4444",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Aria-3783",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Zane-6747",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Aria-8044",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Seren-2185",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Orion-9455",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Eris-9908",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Zane-5331",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Rowan-9877",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Rowan-5347",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Elio-2386",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Ash-7694",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Iris-9820",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Ash-7672",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Zane-9834",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Nyx-8256",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Elio-8750",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Echo-6025",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Elio-6627",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Atlas-8802",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Atlas-6854",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Iris-2222",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Seren-7241",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Riven-4983",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Theo-3400",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Aria-1346",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Eris-6366",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Orion-1701",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Iris-7552",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Echo-1521",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Atlas-4908",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Seren-8005",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Riven-7938",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Lyra-6480",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Orion-1907",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Riven-1443",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Aiden-4962",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Orion-3225",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Atlas-7725",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Lyra-8650",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Kai-4818",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Orion-2306",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Mira-3968",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Nova-8121",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Zane-1300",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Mira-8944",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Iris-9096",
+        "visibility": "PRIVATE"
+      }
+    ]
+  },
+  {
+    "userId": "YA45RX2XBDV8EFBRPYKWBY74M4",
+    "email": "morgan.garcia.6y8a@example.com",
+    "characters": [
+      {
+        "name": "Lyra-7380",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Nova-6254",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Seren-4088",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Theo-6984",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Nyx-2615",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Riven-4530",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Nyx-8069",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Aria-9672",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Eris-6219",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Kai-7046",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Seren-6084",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Rowan-1262",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Rowan-8763",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Ash-5640",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Mira-3826",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Ash-5185",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Aiden-2659",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Iris-5064",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Luna-6644",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Lyra-1354",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Elio-8678",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Nyx-3456",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Aiden-7591",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Zane-2589",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Nyx-4545",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Ash-5916",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Riven-9905",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Seren-8022",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Riven-4013",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Riven-2254",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Nova-8972",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Nova-3446",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Seren-3617",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Rowan-6542",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Riven-3867",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Ash-1970",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Zane-1028",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Zane-1014",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Nova-5288",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Atlas-8254",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Echo-6675",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Iris-1033",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Atlas-6201",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Iris-3872",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Nova-4252",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Nyx-1100",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Luna-9761",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Lyra-5502",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Zane-4992",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Elio-2874",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Theo-9477",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Nyx-7563",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Rowan-1487",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Riven-9445",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Zane-7232",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Echo-6641",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Kai-1883",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Mira-6835",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Orion-8918",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Seren-7047",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Atlas-7253",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Lyra-1601",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Kai-3153",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Rowan-8645",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Eris-6708",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Nova-9613",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Seren-9369",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Theo-6857",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Elio-2104",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Luna-2452",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Riven-4392",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Aria-6512",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Theo-3355",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Echo-4007",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Echo-1259",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Luna-3857",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Theo-7686",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Eris-9148",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Orion-5775",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Nova-2114",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Riven-6951",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Theo-9444",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Kai-5209",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Orion-3829",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Riven-7151",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Riven-3883",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Eris-2372",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Ash-3672",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Ash-1256",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Elio-2162",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Elio-2228",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Ash-3372",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Eris-5603",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Elio-8947",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Aiden-1653",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Seren-8692",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Luna-6209",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Eris-9501",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Atlas-8212",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Elio-7468",
+        "visibility": "PRIVATE"
+      }
+    ]
+  },
+  {
+    "userId": "KXAMXND4CHZR0GZQKT4QN0S63G",
+    "email": "ryan.taylor.sjyv@example.com",
+    "characters": [
+      {
+        "name": "Echo-2244",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Luna-4319",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Elio-7068",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Rowan-4701",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Atlas-5050",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Atlas-9049",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Ash-8857",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Rowan-5775",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Aria-2077",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Riven-6141",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Nova-4350",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Atlas-1269",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Lyra-7248",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Ash-4110",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Iris-9319",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Echo-2913",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Theo-1459",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Nova-2717",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Echo-7588",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Aiden-8204",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Echo-1277",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Riven-6070",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Riven-7852",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Atlas-1637",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Riven-1786",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Orion-8540",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Orion-5975",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Aria-2325",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Ash-1400",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Luna-5691",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Luna-7644",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Atlas-5244",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Iris-2651",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Rowan-6160",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Nyx-8781",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Rowan-1319",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Riven-2800",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Seren-4796",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Aiden-6258",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Mira-1092",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Riven-7876",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Iris-6311",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Theo-5594",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Riven-8369",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Nova-7204",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Ash-1742",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Rowan-7308",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Seren-1891",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Aiden-3033",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Echo-6221",
+        "visibility": "PUBLIC"
+      },
+      {
+        "name": "Zane-3617",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Orion-8288",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Elio-7547",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Orion-1162",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Nova-6461",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Echo-1673",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Nyx-8845",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Eris-8599",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Rowan-1485",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Elio-9670",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Aiden-9724",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Luna-3567",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Theo-4160",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Lyra-6302",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Atlas-4680",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Orion-4662",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Atlas-7158",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Kai-3063",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Theo-9854",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Nyx-1488",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Ash-1104",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Atlas-8182",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Eris-2971",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Zane-9388",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Kai-7385",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Seren-4216",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Luna-5796",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Lyra-9301",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Ash-6678",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Aiden-9642",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Nova-7168",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Mira-2797",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Nyx-8488",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Aria-4243",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Eris-5719",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Nova-6002",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Echo-5391",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Seren-8039",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Zane-1966",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Theo-5127",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Nyx-1451",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Zane-1915",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Riven-1028",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Aria-9515",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Nova-7796",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Nyx-3221",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Echo-4676",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Mira-1192",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Aiden-6037",
+        "visibility": "PRIVATE"
+      },
+      {
+        "name": "Nova-7973",
+        "visibility": "PRIVATE"
+      }
+    ]
+  }
+]
